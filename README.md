@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"> <a href="https://github.com/FantoX001/lyrics-scraper">@fantox001/lyrics-scraper </a>
+<h1 align="center"> <a href="https://github.com/FantoX001/lyrics-scraper">@fantox01/lyrics-scraper </a>
 </h1>
 
 <h4 align="center"> The simplest yet most powerful <a href="https://genius.com/">Genius Lyrics </a> scrapper
@@ -29,7 +29,7 @@ npm i @fantox001/lyrics-scraper
 ### Metod 1:
 
 ```
-const {getThumbnail, getLyrics} = require('@fantox001/lyrics-scraper');
+const {getThumbnail, getLyrics} = require('@fantox01/lyrics-scraper');
 
 async function main() {
     const query = "Heat Waves";
@@ -47,7 +47,7 @@ async function main() {
 ### Method 2:
 
 ```
-const {getThumbnail, getLyrics} = require('@fantox001/lyrics-scraper');
+const {getThumbnail, getLyrics} = require('@fantox01/lyrics-scraper');
 
 const query = "Heat Waves";
 
