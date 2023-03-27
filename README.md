@@ -1,4 +1,4 @@
-![lyrics-scrapper-thumb](https://user-images.githubusercontent.com/96835724/228057512-b2164f12-0ac9-48c4-8af7-23e880b7b696.gif)
+
 
 
 
