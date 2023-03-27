@@ -1,6 +1,6 @@
 {
   "name": "@fantox001/lyrics-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple yet most powerful scraper to get lyrics and thumbnail og any song from Genius Lyrics",
   "main": "scraper.js",
   "scripts": {
