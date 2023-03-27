@@ -20,7 +20,7 @@
 ## 💫 Installation:
 
 ```
-npm i @fantox001/lyrics-scraper
+npm i @fantox01/lyrics-scraper
 ```
 
 ## 🧩 Usage:
