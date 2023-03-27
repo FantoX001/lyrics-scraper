@@ -18,7 +18,7 @@
 <br>
 
 ## 💠 Description:
-- This is a Scrapper which can scrap and give you lyrics of any song that's available on [Genius Offitial Site](https://genius.com/). 
+- This is a Scraper which can scrap and give you lyrics of any song that's available on [Genius Offitial Site](https://genius.com/). 
 - This can return both album thumbnail and lyrics if they are available through thw power of web scraping.
 - Scraping an website is not always allowed by the website owners. This project is made for educational purposes only.
 
