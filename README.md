@@ -1,5 +1,4 @@
-
-
+![lyrics-scraper-example](https://user-images.githubusercontent.com/96835724/228140459-6797637f-6911-4582-94a1-43601bee63c4.gif)
 
 
 <h1 align="center"> <a href="https://github.com/FantoX001/lyrics-scraper">@fantox01/lyrics-scraper </a>
