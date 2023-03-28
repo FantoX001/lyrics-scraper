@@ -1,6 +1,6 @@
 {
-  "name": "@fantox001/lyrics-scraper",
-  "version": "1.0.1",
+  "name": "@fantox01/lyrics-scraper",
+  "version": "1.0.0",
   "description": "A simple yet most powerful scraper to get lyrics and thumbnail og any song from Genius Lyrics",
   "main": "scraper.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FantoX001/lyrics-scraper.git"
+    "url": "https://github.com/FantoX001/lyrics-scraper.git"
   },
   "homepage": "https://github.com/FantoX001/lyrics-scraper#readme",
   "keywords": [
