@@ -7,6 +7,14 @@
 <h4 align="center"> The simplest yet most powerful <a href="https://genius.com/">Genius Lyrics </a> scrapper
 </h4>
 
+<br>
+<p align="center">
+
+<a href="https://www.codefactor.io/repository/github/fantox001/lyrics-scraper">
+<img src="https://www.codefactor.io/repository/github/fantox001/lyrics-scraper/badge" alt="CodeFactor" width="120px" /></a>
+
+</p>
+
 <p align="center">
 <a href="https://www.npmjs.com/package/@fantox01/lyrics-scraper">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="140px">
