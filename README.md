@@ -42,7 +42,7 @@ npm i @fantox01/lyrics-scraper
 
 ### Metod 1:
 
-```
+```js
 const {getThumbnail, getLyrics} = require('@fantox01/lyrics-scraper');
 
 async function main() {
@@ -60,7 +60,7 @@ async function main() {
 
 ### Method 2:
 
-```
+```js
 const {getThumbnail, getLyrics} = require('@fantox01/lyrics-scraper');
 
 const query = "Heat Waves";
